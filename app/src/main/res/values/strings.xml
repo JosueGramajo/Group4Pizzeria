@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Group4Pizzas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum eget magna eget rutrum. Nunc ultrices vehicula rutrum. Cras lacinia est vel magna posuere, vel faucibus ante vestibulum. Nulla facilisi. Nunc rhoncus orci placerat eros rutrum, a pharetra tellus aliquam. Fusce eget interdum ex, vitae consectetur odio. Etiam ac dolor risus. In tempus condimentum blandit. Cras ultricies, velit ut imperdiet ultrices, est ligula vestibulum ipsum, ac bibendum lectus mi et quam. Aliquam id enim ligula. Integer non justo sagittis, consequat ante sit amet, porta ligula. Maecenas eget libero non eros finibus tempus in vitae leo. Sed vehicula vitae odio in posuere. Fusce maximus erat vestibulum consequat cursus.
+        \n\n
+        Aliquam a interdum metus, non cursus est. Proin eu hendrerit libero, at sollicitudin justo. Nulla cursus erat sed elit imperdiet elementum. Phasellus sem mauris, faucibus quis tristique sit amet, hendrerit non enim. Nulla mollis tellus vitae nunc blandit faucibus. Vestibulum nisl massa, maximus non convallis eget, rhoncus non tortor. Cras sagittis eros non porta semper. Praesent venenatis augue non mollis suscipit. Vestibulum rhoncus pellentesque hendrerit.
+    </string>
+
+    </resources>
